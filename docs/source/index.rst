@@ -1,17 +1,9 @@
-Welcome to Lumache's documentation!
+海南医学院儿科学院
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+这是一个关于儿科学院优秀人才团队的简介
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
+字体稍大，阅读本书更容易；我建议使用 125% 的缩放。您可以在 Macintosh 上通过按住 ''Comman'' 键和 "+" 键来执行此操作，或者从浏览器菜单中单击 "View -> Zoom In"。
 
 Contents
 --------
